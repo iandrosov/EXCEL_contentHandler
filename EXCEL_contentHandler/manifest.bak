@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">no</value>
+  <value name="version">1.5</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <value name="name">EXCEL_contentHandler</value>
+  <value name="build"></value>
+  <value name="description"></value>
+  <value name="time">2003-05-02 14:04:08 MST</value>
+  <value name="jvm_version">1.3.0</value>
+  <value name="publisher">PHXWMETHODS1.pegs.com</value>
+  <value name="patch_nums"></value>
+  <value name="system_package">no</value>
+  <null name="listACL"/>
+</Values>
